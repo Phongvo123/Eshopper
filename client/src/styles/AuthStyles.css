@@ -1,0 +1,26 @@
+/* login page css */
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 670px;
+  flex-direction: column;
+  background-color: #ffdee9;
+  background-color: #ffdee9;
+  background-image: linear-gradient(0deg, #ffdee9 0%, #b5fffc 100%);
+}
+.form-container form {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #fff;
+    width: 25%;
+    border-radius: 10px;
+}
+.message {
+    margin: 15px 0 0;
+    color: #b3b3b3;
+    font-size: 15px;
+}
+.message a {
+    color: #202040;
+    text-decoration: none;
+}
